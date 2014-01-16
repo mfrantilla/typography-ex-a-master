@@ -1,0 +1,23 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+p {
+font-family: 'Josefin Slab', serif;
+}
+
+h1 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 40px;
+	font-style: bold;
+}
+
+h3 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 25px;
+	font-style: bold;
+}
